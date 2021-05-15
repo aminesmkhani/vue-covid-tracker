@@ -40,7 +40,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <div dir="rtl">
 
-## 🇮🇷 فارسی
+# 🇮🇷 فارسی
 
 ![Covid Tracker - Iran](https://s4.uupload.ir/files/screenshot_at_2021-05-10_10-43-44_bgvo.png)
 
