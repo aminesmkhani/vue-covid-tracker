@@ -6,11 +6,6 @@
 
 ![Covid Tracker - USA](https://s4.uupload.ir/files/screenshot_at_2021-05-10_10-34-14_bz5g.png)
 
-
-# Sample Project
-
-Link: [Covid Tracker](https://covid.sectron.ir/)
-
 ## Clone Project
 ```
 Download Project 
@@ -43,10 +38,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # 🇮🇷 فارسی
 
 ![Covid Tracker - Iran](https://s4.uupload.ir/files/screenshot_at_2021-05-10_10-43-44_bgvo.png)
-
-# نمونه پروژه
-
-لینک: [ردیابی کرونا](https://covid.sectron.ir/)
 
 ## دریافت پروژه
 ```
